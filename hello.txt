@@ -1,2 +1,5 @@
-hot-fix
+<<<<<<< HEAD
+=======
+master
+>>>>>>> hot-fix
 hello,world
